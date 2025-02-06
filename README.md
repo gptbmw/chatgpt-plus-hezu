@@ -271,6 +271,6 @@ ChatGPT Plus合租为广大用户提供了一种经济实惠的选择，尤其�
 
 # 国内最新订阅购买ChatGPT Plus的其他相关文章
 
-* <a href="[https://github.com/gptbmw/gptbmw.github.io](https://github.com/gptbmw/gptbmw.github.io)">国内升级订阅ChatGPT Plus会员教程</a> ：本文详细讲解了如何注册个人独立ChatGPT账号，以及如何使用国内支付方式升级订阅ChatGPT Plus会员。同时文章中还重点介绍了如何开通申请WildCard虚拟信用卡、如何取消ChatGPT Plus订阅、如何管理自己的WildCard卡片。
+* <a href="https://github.com/gptbmw/gptbmw.github.io">国内升级订阅ChatGPT Plus会员教程</a> ：本文详细讲解了如何注册个人独立ChatGPT账号，以及如何使用国内支付方式升级订阅ChatGPT Plus会员。同时文章中还重点介绍了如何开通申请WildCard虚拟信用卡、如何取消ChatGPT Plus订阅、如何管理自己的WildCard卡片。
 
-* <a href="[[https://github.com/gptbmw/gptbmw.github.io](https://github.com/gptbmw/gptbmw.github.io)](https://github.com/gptbmw/claude-pro)">中国大陆升级订阅Claude Pro会员教程</a> ：此文中手把手教会大家在国内如何注册Claude账号，并详细的介绍了如何升级订阅Claude Pro会员， 以及Claude账号防封建议、如何取消Claude Pro订阅、以及WildCard虚拟信用卡中的余额怎么提现等大家比较关心的问题。
+* <a href="https://github.com/gptbmw/claude-pro">中国大陆升级订阅Claude Pro会员教程</a> ：此文中手把手教会大家在国内如何注册Claude账号，并详细的介绍了如何升级订阅Claude Pro会员， 以及Claude账号防封建议、如何取消Claude Pro订阅、以及WildCard虚拟信用卡中的余额怎么提现等大家比较关心的问题。
