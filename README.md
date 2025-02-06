@@ -22,7 +22,7 @@ ChatGPT Plus账号合租是指多个用户根据约定规则共同使用同一�
 
 接下来，我们将为大家详细讲解如何通过这四种合租平台进行ChatGPT-4账号的合租拼车。
 
-## 推荐一：银河录像局（https://nf.video/）
+## 推荐一：银河录像局（[https://nf.video/](https://nf.video/Sy195)）
 
 **优惠码：GPTBMW，享受95折优惠！**
 
