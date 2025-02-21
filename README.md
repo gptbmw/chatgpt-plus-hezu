@@ -28,6 +28,8 @@ ChatGPT Plus账号合租是指多个用户根据约定规则共同使用同一�
 
  * **优惠码：GPTBMW，享受95折优惠！**
 
+ * 银河录像局二维码：![银河录像局二维码](https://raw.githubusercontent.com/gptbmw/chatgpt-plus-hezu/refs/heads/main/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80%E4%BA%8C%E7%BB%B4%E7%A0%81.gif)
+
 银河录像局创立于2022年7月，专注于国际流媒体订阅共享平台和生产力软件共享服务。该平台推出的AI百宝箱涵盖ChatGPT、Claude、Netflix、Disney+、Midjourney等多种热门人工智能服务，致力于为用户提供一站式解决方案。银河录像局收费透明、无隐藏费用是核心优势，并提供多种灵活的合租方案，满足用户的个性化需求，让用户以更低的成本享受高质量服务。
 
 银河录像局已经在国家工信部备案，公司信息可查，安全性有保障。截至2024年中旬，平台的付费用户已突破10万+，凭借出色的服务赢得了广泛的用户信赖。
@@ -72,7 +74,7 @@ ChatGPT Plus账号合租是指多个用户根据约定规则共同使用同一�
 
 * 官网：https://www.naifeistation.com/i/3oDB5y
 
-* 二维码：
+* 二维码：![星际放映厅二维码](https://raw.githubusercontent.com/gptbmw/chatgpt-plus-hezu/refs/heads/main/%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
 
 星际放映厅是我们推荐的另一家受欢迎的ChatGPT-4合租平台。作为一个服务稳定、响应及时、价格实惠的智能账号合租平台，星际放映厅致力于为用户提供便捷、高效且稳定的一站式服务。其服务范围包括但不限于ChatGPT、Claude Pro、Netflix、Disney+、Apple ID和谷歌账号等海外流媒体账号的合租服务。
 
@@ -113,7 +115,7 @@ WildCard虚拟信用卡是一款专为解决跨境支付问题而设计的在线
 
 * 官网：https://universalbus.cn/?s=fYF3tUJoi6
 
-* 二维码：
+* 二维码：![环球巴士二维码](https://raw.githubusercontent.com/gptbmw/chatgpt-plus-hezu/refs/heads/main/%E7%8E%AF%E7%90%83%E5%B7%B4%E5%A3%AB%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
 
 环球巴士成立于2019年7月，主营会员合租、代充值以及多种便捷服务。作为行业的先驱者，环球巴士首创了“拼车”合租的概念，为用户提供稳定、便捷的会员服务。平台不仅支持Netflix、Spotify、AppleTV+、NBA赛事直播等流媒体服务的合租，还提供ChatGPT-4、Claude Pro等AI工具的合租服务。此外，环球巴士还配备在线客服，为用户提供1对1的耐心解答和指导，确保用户获得全方位支持。
 
