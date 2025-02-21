@@ -22,9 +22,11 @@ ChatGPT Plus账号合租是指多个用户根据约定规则共同使用同一�
 
 接下来，我们将为大家详细讲解如何通过这四种合租平台进行ChatGPT-4账号的合租拼车。
 
-## 推荐一：银河录像局 https://nf.video/Sy195 
+## 推荐一：银河录像局 
 
- **优惠码：GPTBMW，享受95折优惠！**
+* 银河录像局官网：https://nf.video/Sy195 
+
+ * **优惠码：GPTBMW，享受95折优惠！**
 
 银河录像局创立于2022年7月，专注于国际流媒体订阅共享平台和生产力软件共享服务。该平台推出的AI百宝箱涵盖ChatGPT、Claude、Netflix、Disney+、Midjourney等多种热门人工智能服务，致力于为用户提供一站式解决方案。银河录像局收费透明、无隐藏费用是核心优势，并提供多种灵活的合租方案，满足用户的个性化需求，让用户以更低的成本享受高质量服务。
 
@@ -68,7 +70,9 @@ ChatGPT Plus账号合租是指多个用户根据约定规则共同使用同一�
 
 ## 推荐二：星际放映厅
 
-* 官网：https://www.naifeistation.com/invite.html 
+* 官网：https://www.naifeistation.com/i/3oDB5y
+
+* 二维码：
 
 星际放映厅是我们推荐的另一家受欢迎的ChatGPT-4合租平台。作为一个服务稳定、响应及时、价格实惠的智能账号合租平台，星际放映厅致力于为用户提供便捷、高效且稳定的一站式服务。其服务范围包括但不限于ChatGPT、Claude Pro、Netflix、Disney+、Apple ID和谷歌账号等海外流媒体账号的合租服务。
 
@@ -92,7 +96,7 @@ ChatGPT Plus账号合租是指多个用户根据约定规则共同使用同一�
 
 ### 平替平台一：WildCard虚拟信用卡随心用
 
-* WildCard官网：https://bewildcard.com/i/GPTBMW
+* WildCard官网：https://yeka.ai/i/GPTBMW
 
 WildCard虚拟信用卡是一款专为解决跨境支付问题而设计的在线支付工具，提供便捷的方式帮助用户订阅国外在线服务或进行国际购物。支持的服务包括OpenAI、Midjourney、ChatGPT Plus、Google Play、OnlyFans等需要国际支付的热门项目。WildCard具备开通流程简便、手续费低廉、快速到账的特点，无论是升级ChatGPT Plus、订阅Claude Pro，还是使用其他国际服务，WildCard都能为你提供快速、安全的支付通道，让你畅享全球互联网服务。
 
@@ -107,7 +111,9 @@ WildCard虚拟信用卡是一款专为解决跨境支付问题而设计的在线
 
 ### 平替平台二：环球巴士
 
-* 官网：https://www.universalbus.cn/
+* 官网：https://universalbus.cn/?s=fYF3tUJoi6
+
+* 二维码：
 
 环球巴士成立于2019年7月，主营会员合租、代充值以及多种便捷服务。作为行业的先驱者，环球巴士首创了“拼车”合租的概念，为用户提供稳定、便捷的会员服务。平台不仅支持Netflix、Spotify、AppleTV+、NBA赛事直播等流媒体服务的合租，还提供ChatGPT-4、Claude Pro等AI工具的合租服务。此外，环球巴士还配备在线客服，为用户提供1对1的耐心解答和指导，确保用户获得全方位支持。
 
@@ -274,3 +280,7 @@ ChatGPT Plus合租为广大用户提供了一种经济实惠的选择，尤其�
 * <a href="https://github.com/gptbmw/gptbmw.github.io">国内升级订阅ChatGPT Plus会员教程</a> ：本文详细讲解了如何注册个人独立ChatGPT账号，以及如何使用国内支付方式升级订阅ChatGPT Plus会员。同时文章中还重点介绍了如何开通申请WildCard虚拟信用卡、如何取消ChatGPT Plus订阅、如何管理自己的WildCard卡片。
 
 * <a href="https://github.com/gptbmw/claude-pro">中国大陆升级订阅Claude Pro会员教程</a> ：此文中手把手教会大家在国内如何注册Claude账号，并详细的介绍了如何升级订阅Claude Pro会员， 以及Claude账号防封建议、如何取消Claude Pro订阅、以及WildCard虚拟信用卡中的余额怎么提现等大家比较关心的问题。
+
+* <a href="https://github.com/gptbmw/netflix-hezu">最新2025年奈飞Netflix合租全攻略：每月仅需27元</a> ：追剧党福利！本文将全面深入解析2025年如何拼车购买Netflix账号，包括合租奈飞账号的优势、靠谱的奈飞合租平台推荐、合租奈飞的注意事项，帮助你用更低的价格享受Netflix的高清流媒体服务。
+
+* <a href="https://github.com/gptbmw/wildcard">最新野卡wildcard虚拟信用卡使用指南</a> ：此文中详细深入的介绍了wildcard野卡虚拟信用卡的概念、开通方法、使用场景、特点和优势以及日常使用中的注意事项和管理方法，帮助你快速顺利的开通一张野卡虚拟信用卡。
