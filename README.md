@@ -36,7 +36,7 @@ ChatGPT Plus账号合租是指多个用户根据约定规则共同使用同一�
 
 ### 1、注册与登录
 
-访问银河录像局官网，点击右上角的“登录/注册”，使用手机号码或微信扫码登录。
+访问<a href="https://nf.video/Sy195">银河录像局官网</a>，点击右上角的“登录/注册”，使用手机号码或微信扫码登录。
 
 ### 2、选择需要的服务
 
@@ -161,7 +161,7 @@ ChatGPT Plus合租最大的优势在于有效降低使用成本。一个ChatGPT 
 
 **总结**:合租平台以最低的成本为用户提供专业的ChatGPT Plus服务，例如银河录像局还支持国内直连网络，解决了因网络问题导致无法访问ChatGPT Plus的困扰。共享账号不仅提升了ChatGPT 4.0的使用效率，还让多个用户同时享受到AI的创造力，满足现代快节奏生活中人们对创新和独特想法的需求。选择合租，不仅省钱，更能以最轻松的方式享受尖端科技的便利！
 
-<p align="center"><a href="https://yeka.ai/i/GPTBMW">前往wildcard</a></p >
+<p align="center"><a href="https://yeka.ai/i/GPTBMW">前往wildcard官网</a></p >
 
 ## 拼车ChatGPT Plus合租账号注意事项
 
@@ -249,7 +249,7 @@ ChatGPT Plus合租通过较低的成本和简化的操作，为用户提供了�
 
 如果通过以上方法仍未能解决问题，应及时联系合租平台的客服团队。联系时提供订单号和相关信息，客服会核查账号状态，并为你提供相应的解决方案，确保你能够正常继续使用账号。
 
-<p align="center"><a href="https://nf.video/Sy195">前往银河录像局</a>、<p align="center"><a href="https://yeka.ai/i/GPTBMW">野卡官网</a></p ></p >
+<p align="center"><a href="https://nf.video/Sy195">前往银河录像局</a>、<a href="https://yeka.ai/i/GPTBMW">野卡官网</a></p >
 
 ## 拼车购买的ChatGPT-4合租账号是否存在使用限制？
 
