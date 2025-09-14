@@ -29,19 +29,33 @@ ChatGPT Plus账号合租是指多个用户根据约定规则共同使用同一�
 
 第一步：访问<a href="https://nf.video/Sy195">银河录像局官网</a>，点击右上角的“登录/注册”，使用手机号码或微信扫码登录。
 
+![银河录像局1-注册登录](https://raw.githubusercontent.com/gptbmw/nf-video/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%801-%E6%B3%A8%E5%86%8C%E7%99%BB%E5%BD%95.png)
+
 第二步：在银河官网首页点击“推荐”或“AI服务”，找到“GPT Plus”或“ChatGPT Plus”代充产品，点击“购买”。
 
-第三步：浏览ChatGPT Plus订阅页面，选择适合自己的套餐分类。目前银河录像局提供3种类型：银河AI（国内镜像直连）、共享会员、独立会员。银河Ai又有1个月、3个月、12个月三种时长；共享会员又有10人月付、4人月付、10人年付和4人年付。相应的价格也会在下面显示，各位小伙伴可以根据自己的需求选择适合自己的套餐。然后点击确认支付方式，支付宝或者PayPal。
+![银河录像局2-选择服务](https://raw.githubusercontent.com/gptbmw/nf-video/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%802-%E9%80%89%E6%8B%A9%E6%9C%8D%E5%8A%A1.png)
+
+第三步：浏览ChatGPT Plus订阅页面，选择适合自己的套餐分类。目前银河录像局提供3种类型：银河AI（国内镜像直连）、共享会员、独立会员。银河Ai又有1个月、3个月、12个月三种时长；共享会员又有10人月付、4人月付、10人年付和4人年付。相应的价格也会在下面显示，各位小伙伴可以根据自己的需求选择适合自己的套餐。然后点击支付宝支付。
+
+![银河录像局3-选择适合自己的套餐](https://raw.githubusercontent.com/gptbmw/nf-video/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%803-%E9%80%89%E6%8B%A9%E9%80%82%E5%90%88%E8%87%AA%E5%B7%B1%E7%9A%84%E5%A5%97%E9%A4%90.png)
 
 如果只是尝鲜或者使用频率较低、对隐私要求不高，可以尝试10人合租的版本。但需要注意，合租人数越多，使用限制可能越明显。
 
 第四步：在价格明细中的优惠码栏输入“GPTBMW”，可以享受优惠，然后点击下面的支付宝完成ChatGPT Plus账号的购买。
 
+![银河录像局4-输入优惠码](https://raw.githubusercontent.com/gptbmw/nf-video/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%804-%E8%BE%93%E5%85%A5%E4%BC%98%E6%83%A0%E7%A0%81%E6%94%AF%E4%BB%98.png)
+
 第五步：支付成功后，可以点击“查看车票信息”查看详情。也可以通过官网上面的导航栏“车票”选项查看自己的车票信息。
+
+![ChatGPT Plus拼车合租-查看车票信息](https://raw.githubusercontent.com/gptbmw/nf-video/refs/heads/main/image/ChatGPT%20Plus%E5%90%88%E7%A7%9F-%E6%9F%A5%E7%9C%8B%E8%BD%A6%E7%A5%A8.png)
 
 第六步：选择车队，进入车队，可与队友发起对话，并了解更多使用信息。
 
+![ChatGPT Plus合租-选择车队](https://raw.githubusercontent.com/gptbmw/nf-video/refs/heads/main/image/ChatGPT%20Plus%E6%8B%BC%E8%BD%A6%E5%90%88%E7%A7%9F-%E9%80%89%E6%8B%A9%E8%BD%A6%E9%98%9F.png)
+
 第七步：正式开始使用ChatGPT Plus服务。
+
+![ChatGPT Plus合租-使用GPT](https://raw.githubusercontent.com/gptbmw/nf-video/refs/heads/main/image/ChatGPT%E5%B8%90%E5%8F%B7%E5%90%88%E7%A7%9F-%E5%BC%80%E5%A7%8B%E4%BD%BF%E7%94%A8GPT.png)
 
 **总结**：银河录像局解决了许多用户无法科学上网的难题，还省去了繁琐的操作步骤，为用户节省了时间。银河录像局除了提供 ChatGPT Plus合租以外，还提供以下各种服务：
 
