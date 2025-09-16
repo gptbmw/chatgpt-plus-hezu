@@ -3,7 +3,7 @@
 <p align="center">文章更新于：2025年9月12日</p >
 
 自ChatGPT推出后，咱们就多了一个能文能武，还保证不摸鱼、只干活的AI队友，它能帮助我们把工作调成 “轻松模式” ，让效率和轻松同行。之前我也有专门详细的介绍过
-如何注册ChatGPT账号以及<a href="https://github.com/gptbmw/gptbmw.github.io">升级订阅ChatGPT Plus</a>，但由于ChatGPT尚未向中国市场开放，目前国内用户暂时无法直接订阅ChatGPT Plus，但用不到这么好用的AI工具又好像心有不甘，别着急，下面我们就带领大家通过三种方式—拼车合租、代充值、购买独立账号，来帮助大家安全、便捷、高效、低成本的享受ChatGPT的强大功能。
+如何注册ChatGPT账号以及<a href="https://github.com/gptbmw/gptbmw.github.io">升级订阅ChatGPT Plus</a>，但由于ChatGPT尚未向中国市场开放，目前国内用户暂时无法直接订阅ChatGPT Plus，但用不到这么好用的AI工具又好像心有不甘，别着急，下面我们就给大家推荐三个平台，通过拼车合租、代充值、购买独立账号形式，来帮助大家安全、便捷、高效、低成本的享受ChatGPT的强大功能。
 
 ## 一、ChatGPT Plus拼车合租
 
@@ -37,11 +37,11 @@ ChatGPT Plus账号合租是指多个用户根据约定规则共同使用同一�
 
 第三步：浏览ChatGPT Plus订阅页面，选择适合自己的套餐分类。目前银河录像局提供3种类型：银河AI（国内镜像直连）、共享会员、独立会员。银河Ai又有1个月、3个月、12个月三种时长；共享会员又有10人月付、4人月付、10人年付和4人年付。相应的价格也会在下面显示，各位小伙伴可以根据自己的需求选择适合自己的套餐。然后点击支付宝支付。
 
-![银河录像局3-选择适合自己的套餐](https://raw.githubusercontent.com/gptbmw/nf-video/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%803-%E9%80%89%E6%8B%A9%E9%80%82%E5%90%88%E8%87%AA%E5%B7%B1%E7%9A%84%E5%A5%97%E9%A4%90.png)
-
 如果只是尝鲜或者使用频率较低、对隐私要求不高，可以尝试10人合租的版本。但需要注意，合租人数越多，使用限制可能越明显。
 
-第四步：在价格明细中的优惠码栏输入“GPTBMW”，可以享受优惠，然后点击下面的支付宝完成ChatGPT Plus账号的购买。
+![银河录像局3-选择适合自己的套餐](https://raw.githubusercontent.com/gptbmw/nf-video/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%803-%E9%80%89%E6%8B%A9%E9%80%82%E5%90%88%E8%87%AA%E5%B7%B1%E7%9A%84%E5%A5%97%E9%A4%90.png)
+
+第四步：在价格明细中的优惠码栏输入“GPTBMW”，可以享受优惠，然后点击下面的支付宝支付完成ChatGPT Plus账号的购买。
 
 ![银河录像局4-输入优惠码](https://raw.githubusercontent.com/gptbmw/nf-video/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%804-%E8%BE%93%E5%85%A5%E4%BC%98%E6%83%A0%E7%A0%81%E6%94%AF%E4%BB%98.png)
 
@@ -57,20 +57,22 @@ ChatGPT Plus账号合租是指多个用户根据约定规则共同使用同一�
 
 ![ChatGPT Plus合租-使用GPT](https://raw.githubusercontent.com/gptbmw/nf-video/refs/heads/main/image/ChatGPT%E5%B8%90%E5%8F%B7%E5%90%88%E7%A7%9F-%E5%BC%80%E5%A7%8B%E4%BD%BF%E7%94%A8GPT.png)
 
-**总结**：银河录像局解决了许多用户无法科学上网的难题，还省去了繁琐的操作步骤，为用户节省了时间。银河录像局除了提供 ChatGPT Plus合租以外，还提供以下各种服务：
+**总结**：银河录像局解决了许多用户无法科学上网和无海外支付的难题，还省去了繁琐的操作步骤，为用户节省了时间。银河录像局除了提供ChatGPT Plus合租以外，还提供以下各种服务：
 
 *ChatGPT Plus代充值、ChatGPT Plus原生独立帐号
 * Claude Pro合租、Claude Pro原生独立帐号
 * Midjourney合租、Midjourney原生独立帐号
 * SuporGrok合租、SuporGrok原生独立帐号
+* Netflix、Midjourney、Youtube等合租以及银河路由器和苹果商店、多邻国Plus等增值服务。
+  
+### ChatGPT Plus合租平台二：：星际放映厅
 
-## 推荐二：星际放映厅
+* 支持ChatGPT Plus合租/ChatGPT Plus代充
+  
+* 星际放映厅官网：<a href="https://www.naifeistation.com/i/3oDB5y">https://www.naifeistation.com/i/3oDB5y</a>
 
-* 官网：<a href="https://www.naifeistation.com/i/3oDB5y">https://www.naifeistation.com/i/3oDB5y</a>
-
-* 二维码：![星际放映厅二维码](https://raw.githubusercontent.com/gptbmw/chatgpt-plus-hezu/refs/heads/main/%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
-
-星际放映厅是我们推荐的另一家受欢迎的ChatGPT-4合租平台。作为一个服务稳定、响应及时、价格实惠的智能账号合租平台，星际放映厅致力于为用户提供便捷、高效且稳定的一站式服务。其服务范围包括但不限于ChatGPT、Claude Pro、Netflix、Disney+、Apple ID和谷歌账号等海外流媒体账号的合租服务以及各种AI工具的代充值服务。
+星际放映厅是我们推荐的另一家受欢迎的ChatGPT Plus ChatGPT-4合租平台。作为一家专注于流媒体与 AI 工具合租及代充值的老牌平台，服务稳定、响应及时、尤其价格优势明显，月付方案非常实惠。星际放映厅致力于为用户提供便捷、高效且稳定的一站式服务，平台官网已完成备案，具备合法资质，并且支持全天候24小时在线客服，用户在购买和使用过程中能够获得充分的售后保障，安全性和稳定性都更有保证。
+目前，星际放映厅服务范围包括但不限于ChatGPT、Claude Pro、Midjourney、SuperGrok等AI工具合租与代充，Netflix、Disney+、Youtube等海外流媒体账号的合租服务以及Apple ID和谷歌账号等服务。其中ChatGPT P1us合租，用户可享受完整的ChatGPT P1us功能，包括GPT-40与 o3-mini 模型、Sora视频生成、高级语音模式等前沿功能，需要注意的是，高峰期可能存在短暂排队情况。
 
 ### 第一步：注册登录
 
